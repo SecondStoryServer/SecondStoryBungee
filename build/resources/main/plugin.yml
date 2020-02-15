@@ -1,0 +1,4 @@
+name: SecondStoryConnect
+main: me.syari.sec_story.bungee.SecondStory
+version: "1.0"
+author: sya_ri
